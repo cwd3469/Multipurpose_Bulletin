@@ -1,0 +1,92 @@
+{
+  "profileImageUlid": "",
+  "userId": "",
+  "name": "",
+  "tempPw": "",
+  "birthDate": "",
+  "mobile": "",
+  "gender": "1",
+  "licenseNumber": "",
+  "active": true,
+  "primaryDepartmentCode": "",
+  "medicalDepartment": {
+    "MG": {
+      "id": "D01",
+      "koName": "내과",
+      "enName": "MG",
+      "active": false
+    },
+    "GS": {
+      "id": "D10",
+      "koName": "외과",
+      "enName": "GS",
+      "active": false
+    },
+    "DR": {
+      "id": "D06",
+      "koName": "피부과",
+      "enName": "DR",
+      "active": false
+    },
+    "OBGY": {
+      "id": "D07",
+      "koName": "산부인과",
+      "enName": "OBGY",
+      "active": false
+    },
+    "OS": {
+      "id": "D03",
+      "koName": "정형외과",
+      "enName": "OS",
+      "active": false
+    },
+    "UR": {
+      "id": "D08",
+      "koName": "비뇨의학과",
+      "enName": "UR",
+      "active": false
+    },
+    "NS": {
+      "id": "D11",
+      "koName": "신경외과",
+      "enName": "NS",
+      "active": false
+    },
+    "NU": {
+      "id": "D12",
+      "koName": "신경과",
+      "enName": "NU",
+      "active": false
+    },
+    "FM": {
+      "id": "D02",
+      "koName": "가정의학과",
+      "enName": "FM",
+      "active": false
+    },
+    "PD": {
+      "id": "D05",
+      "koName": "소아청소년과",
+      "enName": "PD",
+      "active": false
+    },
+    "ENT": {
+      "id": "D04",
+      "koName": "이비인후과",
+      "enName": "ENT",
+      "active": false
+    },
+    "NP": {
+      "id": "D09",
+      "koName": "정신건강의학과",
+      "enName": "NP",
+      "active": false
+    },
+    "CP": {
+      "id": "D13",
+      "koName": "건강검진센터",
+      "enName": "CP",
+      "active": false
+    }
+  }
+}

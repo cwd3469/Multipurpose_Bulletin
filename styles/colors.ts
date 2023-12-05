@@ -1,0 +1,42 @@
+const colors = {
+  gray_06: '#b5b5b5',
+  gray_05: '#555555',
+  gray_07: '#999999',
+  gray_08: '#e4e4e4',
+  gray_03: '#656666',
+  gray_10: '#F5F5F5',
+  gray_09: '#ededed',
+  gray_01: '#000000',
+  gray_02: '#4a4a4a',
+  gray_11: '#ffffff',
+  gray_04: '#666666',
+  bg_blue: '#e2f6ff',
+  bg_skyblue: '#f0faff',
+  bg_gray: '#fafbfd',
+  bg_blueblack: '#17335c',
+  ays_maincolor: '#4ac6ff',
+  ays_sub_01: '#1890ff',
+  ays_point_02: '#ffa51f',
+  ays_sub_02: '#48dae5',
+  ays_point_01: '#ff1a1a',
+  ays_point_03: '#f16c6c',
+  ays_point_04: '#11d900',
+  ays_point_05: '#f8be4d',
+  bg_red: '#ffecec',
+
+  gray1: '#efeeed',
+  gray5: '#939393',
+  gray6: '#d4d4d4',
+  gray7: '#cecece',
+  black4: '#506073',
+  black5: '#585858',
+  blue1: '#1bacef',
+  blue2: '#2c6e9d',
+  blue3: '#2c7fcc',
+  red1: '#ec625a',
+  red2: '#dc5656',
+};
+
+export type IColor = typeof colors;
+
+export default colors;

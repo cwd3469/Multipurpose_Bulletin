@@ -1,0 +1,144 @@
+{
+  "ability": [
+    {
+      "id": "D01",
+      "koName": "내과",
+      "enName": "MG",
+      "active": false
+    },
+    {
+      "id": "D10",
+      "koName": "외과",
+      "enName": "GS",
+      "active": false
+    },
+    {
+      "id": "D06",
+      "koName": "피부과",
+      "enName": "DR",
+      "active": false
+    },
+    {
+      "id": "D07",
+      "koName": "산부인과",
+      "enName": "OBGY",
+      "active": false
+    },
+    {
+      "id": "D08",
+      "koName": "비뇨의학과",
+      "enName": "UR",
+      "active": false
+    },
+    {
+      "id": "D02",
+      "koName": "가정의학과",
+      "enName": "FM",
+      "active": false
+    },
+    {
+      "id": "D09",
+      "koName": "정신건강의학과",
+      "enName": "NP",
+      "active": false
+    },
+    {
+      "id": "D04",
+      "koName": "이비인후과",
+      "enName": "ENT",
+      "active": false
+    },
+    {
+      "id": "D05",
+      "koName": "소아청소년과",
+      "enName": "PD",
+      "active": false
+    },
+    {
+      "id": "D03",
+      "koName": "정형외과",
+      "enName": "OS",
+      "active": false
+    },
+    {
+      "id": "D11",
+      "koName": "신경외과",
+      "enName": "NS",
+      "active": false
+    },
+    {
+      "id": "D12",
+      "koName": "신경과",
+      "enName": "NU",
+      "active": false
+    }
+  ],
+  "symptom": [
+    {
+      "symptomName": "감기",
+      "active": false,
+      "id": "TS0001"
+    },
+    {
+      "symptomName": "위장염",
+      "active": false,
+      "id": "TS0002"
+    },
+    {
+      "symptomName": "고혈압",
+      "active": false,
+      "id": "TS0003"
+    },
+    {
+      "symptomName": "당뇨",
+      "active": false,
+      "id": "TS0004"
+    },
+    {
+      "symptomName": "고지혈증",
+      "active": false,
+      "id": "TS0005"
+    },
+    {
+      "symptomName": "전립선비대",
+      "active": false,
+      "id": "TS0006"
+    },
+    {
+      "symptomName": "사후피임약",
+      "active": false,
+      "id": "TS0007"
+    },
+    {
+      "symptomName": "방광염",
+      "active": false,
+      "id": "TS0008"
+    },
+    {
+      "symptomName": "탈모",
+      "active": false,
+      "id": "TS0009"
+    },
+    {
+      "symptomName": "통증",
+      "active": false,
+      "id": "TS0010"
+    }
+  ],
+  "means": [
+    {
+      "meanName": "화상 진료",
+      "active": false,
+      "id": 1132
+    },
+    {
+      "meanName": "음성 진료",
+      "active": false,
+      "id": 1132
+    }
+  ],
+  "overseasTreatment": false,
+  "time": "0",
+  "queueing": "0",
+  "introduction": ""
+}

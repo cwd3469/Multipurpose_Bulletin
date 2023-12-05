@@ -1,0 +1,76 @@
+{
+  "errorMsg": {
+    "msg": "",
+    "boo": false
+  },
+  "data": {
+    "id": "",
+    "email": "",
+    "pw": "",
+    "repw": "",
+    "name": "",
+    "mobile": "",
+    "hocName": "",
+    "hocAddress": "",
+    "addressDetail": "",
+    "hocPhone": "",
+    "buisNum": "",
+    "businessLicense": null,
+    "bankbookCopy": null,
+    "hospitalCode": ""
+  },
+   "fileUlid": {
+    "businessLicense": null,
+    "bankbookCopy": null
+  },
+  "errs": {
+    "idErr": {
+      "msg": "",
+      "boo": false
+    },
+    "repwErr": {
+      "msg": "",
+      "boo": false
+    },
+    "emailErr": {
+      "msg": "",
+      "boo": false
+    },
+    "hospitalCodeErr": {
+      "msg": "",
+      "boo": false
+    },
+    "pwErr": {
+      "msg": "",
+      "boo": false
+    },
+    "nameErr": {
+      "msg": "",
+      "boo": false
+    },
+    "hocNameErr": {
+      "msg": "",
+      "boo": false
+    },
+    "hocAddressErr": {
+      "msg": "",
+      "boo": false
+    },
+    "addressDetailErr": {
+      "msg": "",
+      "boo": false
+    },
+    "pharmacyFaxNumErr": {
+      "msg": "",
+      "boo": false
+    },
+    "hocPhoneErr": {
+      "msg": "",
+      "boo": false
+    },
+    "buisNumErr": {
+      "msg": "",
+      "boo": false
+    }
+  }
+}
